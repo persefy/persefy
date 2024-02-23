@@ -10,10 +10,20 @@ Adobe Photoshop, Adobe Illustrator, Visual Studio Code, Git CLI, GitHub, Microso
 **Interests:**
 Programming, jogging, woodworking, traveling, drawing
 
+
+Spanish/English Bilingual
+
 **Portfolio:**
 [link coming soon!]
 
-Spanish/English Bilingual
+## Top/Recent Projects
+**Name:** [Hatley Condominium](https://github.com/persefy/Hatley-Condominiums)
+
+**Description** Fictional condominiums complex information website listing available units, style of units, and contact information
+
+**Languages/Tech:** JavaScript, HTML, CSS, Express.js, Mongoose, Node.js, CRUD (backend)
+
+---
 <!--
 **persefy/persefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
