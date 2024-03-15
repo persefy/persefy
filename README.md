@@ -17,9 +17,16 @@ Spanish/English Bilingual
 [link coming soon!]
 
 ## Top/Recent Projects
+**Name:** [Alias](https://github.com/persefy/Alias/)
+
+**Description:** MERN stack app where users can post under an alias, and react to content posted by the community.
+
+**Languages/Tech:** React, JavaScript, HTML, CSS, Express.js, Mongoose, Node.js, CRUD (front and backend), MongoDB Atlas
+
+
 **Name:** [Hatley Condominium](https://github.com/persefy/Hatley-Condominiums)
 
-**Description** Fictional condominiums complex information website listing available units, style of units, and contact information
+**Description:** Fictional condominiums complex information website listing available units, style of units, and contact information
 
 **Languages/Tech:** JavaScript, HTML, CSS, Express.js, Mongoose, Node.js, CRUD (backend)
 
