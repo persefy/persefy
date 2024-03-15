@@ -1,5 +1,5 @@
 ### Welcome to my about page!
-I am a versatile Software Engineer fueled by a passion for exploring diverse cultures and experiences. In my previous role, I thrived within a dynamic and agile team, enhancing application systems and conducting training sessions for end users across 40+ countries. My ability to swiftly grasp new concepts, refine processes in ambiguous settings, and communicate across diverse backgrounds empowers me to create cutting-edge, intuitive applications that prioritize user experience and functionality.
+I am a versatile Software Engineer fueled by a passion for exploring diverse cultures and experiences. In my previous role, I thrived within a dynamic and agile team, enhancing application systems and conducting training sessions for end users across 40+ countries. My ability to swiftly grasp new concepts, refine processes in ambiguous settings, and communicate with people from diverse backgrounds empowers me to create cutting-edge, intuitive applications that prioritize user experience and functionality.
 
 **Languages/Frameworks:**
 JavaScript, HTML, CSS, ExpressJS, NodeJS, MongoDB, Mongoose
