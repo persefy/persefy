@@ -18,36 +18,27 @@ Spanish/English Bilingual
 
 ## Top/Recent Projects
 ### **Name:** [Alias](https://github.com/persefy/Alias/)
-<img src="https://github.com/persefy/persefy/assets/17712788/ffb7eef4-3689-4f12-85c1-ec7cbbd8b821" width="300" height="170">
-<img src="https://github.com/persefy/persefy/assets/17712788/ca51877d-29f4-4c0a-b13a-60eb464d522c width="100" height="300">
-
-
 **Description:** MERN stack app where users can post under an alias, and react to content posted by the community.
-
 **Languages/Tech:** React, JavaScript, HTML, CSS, Express.js, Mongoose, Node.js, CRUD (front and backend), MongoDB Atlas
 
+<img src="https://github.com/persefy/persefy/assets/17712788/ffb7eef4-3689-4f12-85c1-ec7cbbd8b821" width="300" height="170">
+<img src="https://github.com/persefy/persefy/assets/17712788/ca51877d-29f4-4c0a-b13a-60eb464d522c" width="250" height="300">
 
 
 ### **Name:** [Taste-Mate](https://github.com/persefy/taste-mate))
+**Description:** Front end React app pulling from a meal database with Axios API call. Displays meal, along with ingredients, measurements, and steps.
+**Languages/Tech:** React, JavaScript, HTML, CSS, Axios API
+
 <img src="https://github.com/persefy/persefy/assets/17712788/964aaf45-4cf3-4bdf-810a-f6d4ff1af2bc" width="300" height="270">
 <img src="https://github.com/persefy/persefy/assets/17712788/ba43dd61-c775-443a-938a-5d8e6b4dddf1" width="300" height="350">
 
 
-
-**Description:** Front end React app pulling from a meal database with Axios API call. Displays meal, along with ingredients, measurements, and steps.
-
-**Languages/Tech:** React, JavaScript, HTML, CSS, Axios API
-
-
-
 ### **Name:** [Hatley Condominium](https://github.com/persefy/Hatley-Condominiums)
-<img src="https://github.com/persefy/persefy/assets/17712788/52edaa38-ee43-49b3-bc7f-a34a75b6929d" width="250" height="270">
-<img src="https://github.com/persefy/persefy/assets/17712788/90bfacb1-220f-47e6-bccc-1f13ac2ab3f0" width="250" height="270">
-
 **Description:** Fictional condominiums complex information website listing available units, style of units, and contact information
-
 **Languages/Tech:** JavaScript, HTML, CSS, Express.js, Mongoose, Node.js, CRUD (backend)
 
+<img src="https://github.com/persefy/persefy/assets/17712788/52edaa38-ee43-49b3-bc7f-a34a75b6929d" width="250" height="270">
+<img src="https://github.com/persefy/persefy/assets/17712788/90bfacb1-220f-47e6-bccc-1f13ac2ab3f0" width="250" height="270">
 ---
 <!--
 **persefy/persefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
