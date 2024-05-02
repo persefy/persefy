@@ -30,7 +30,7 @@ Spanish/English Bilingual
 
 ---
 
-### **Name:** [Taste-Mate](https://github.com/persefy/taste-mate))
+### **Name:** [Taste-Mate](https://github.com/persefy/taste-mate)
 **Description:** Front end React app pulling from a meal database with Axios API call. Displays meal, along with ingredients, measurements, and steps.
 
 **Languages/Tech:** React, JavaScript, HTML, CSS, Axios API
